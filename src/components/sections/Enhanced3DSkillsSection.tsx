@@ -15,7 +15,7 @@ export const Enhanced3DSkillsSection = () => {
   const [dataFlowActive, setDataFlowActive] = useState(false);
 
   const terminalCommands = [
-    '$ git clone https://github.com/elite-project.git',
+    '$ git clone https://github.com/ati-info/info.git',
     '$ cd elite-project && npm install',
     '$ Building production bundle...',
     '✓ Compiled successfully in 3.2s',
